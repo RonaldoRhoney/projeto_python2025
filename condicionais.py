@@ -10,5 +10,8 @@ media = (n1 + n2) / 2
 if (media >= 7):
     print('Resultado: Aprovado !')
     print('Parabéns !!')
-
+elif (media >= 5.5):
+    print('Você está de recuperação..')
+else:
+    print('Você precisa estudar mais, Reprovado !')
 print('Sua média é {}'.format(media))
