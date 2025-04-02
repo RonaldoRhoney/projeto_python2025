@@ -1,4 +1,4 @@
-n1 = n2 = 0.0
+n1 = n2 = 0
 media = 0.0
 
 n1 = float(input('Digite a primeira nota:'))
